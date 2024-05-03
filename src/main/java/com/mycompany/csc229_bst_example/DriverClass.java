@@ -25,6 +25,5 @@ public class DriverClass {
         System.out.println("In Order Traversal");
         bst.inOrderTraversal();
         
-        bst.print();
     }
 }
